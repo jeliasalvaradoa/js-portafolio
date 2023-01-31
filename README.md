@@ -1,6 +1,6 @@
 # js-portfolio
 Proyecto realizado [ con Webpack y Babel] del curso de Webpack en platzi
-(https://63d8a6892f51d10008f8d3ab--melodic-sundae-481ee4.netlify.app/ "Ver proyecto")
+[**ver el despligue**](https://platzi.com/cursos/git-github/ "Ver proyecto").
 
 ## El proyecto
 * En el proyecto se debia clonar un repositorio de inicio  y luego optimizarlo
